@@ -1,4 +1,4 @@
-# Jméno Příjmení
+# Tomáš Chňapko
 ---
 ## Zvolené rozšíření
 - Popisek
